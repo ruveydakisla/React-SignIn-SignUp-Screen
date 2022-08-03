@@ -1,0 +1,44 @@
+.errors{
+    color:blueviolet;
+}
+.input{
+    font-size: 15px;
+    border-width: 0rem;
+    border-bottom-width: 0.1rem;
+    border-bottom-color: black;
+    text-align: center;
+    line-height: 2rem;
+    width: 100%;
+    
+    
+
+}
+input:focus{
+    border-width: 0rem;
+    border-bottom-width: 0.1rem;
+    border-style: none;
+   
+}
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: auto;
+    
+}
+button{
+    color: blueviolet;
+    font-size: 1rem;
+    border-style: none;
+    background-color: lightgrey;
+    border-radius: 12px;
+    line-height: 3rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 200px;
+    transition-duration: 0.4s;
+    
+    
+   
+}
+button:hover{
+    color:aliceblue;
+    background-color: blueviolet;
+}

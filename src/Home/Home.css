@@ -1,0 +1,30 @@
+ul{
+    display: flex;
+    align-items: flex-end;
+    list-style: none;
+    background-color: black;
+    color: azure;
+    line-height: 10vh;
+    
+}
+
+.item{
+
+    width: 100px;
+    text-align: center;
+    display: flex;
+    
+    
+}
+nav{
+   position: sticky;
+}
+Link{
+    text-decoration: none;
+}
+
+
+.Home{
+    height: 75vh;
+    text-align: center;
+}
